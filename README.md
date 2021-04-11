@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katancheta
 - 👀 I’m interested in recruiting tech peopls
 - 🌱 I’m currently learning technical recruitment
-- 💞️ I’m looking to collaborate on hiring developer
+- 💞️ I’m looking to collaborate on hiring developers
 - 📫 You can reach me thru katrina.ancheta@microsourcing.com
 
 <!---
